@@ -342,6 +342,23 @@ Configuración de chef:
 Nota: Se asume que todas las actividades descritas en esta sección fueron desarrolladas
 en partes iguales por cada uno de los integrantes del grupo.
 
+* Miércoles 9 de Junio - 6pm
+  * Reunión General y prevista del proyecto.
+
+* Viernes 11 de Junio - 6pm
+  * Investigación de contenido y asignación de responsabilidades.
+
+* Miércoles 16 de Junio - 6pm
+  * Nos reunimos para confirmar si las asignaciones son posibles de realizar
+  para cada miembro del proyecto antes de continuar a la etapa de desarrollo.
+
+* Miércoles 23 de Junio - 6pm
+  * Reunión para mostrar avances, posibles contratiempos y sugerencias
+
+* Martes 29 - Miércoles 30 de Junio
+  * Reuniones finales para coordinar entregables, compartir resultados y 
+  analizar metas así como objetivos faltantes, se crean los entregables para
+  tenerlos listos en el drive de la clase.
 
 ### Autoevaluación
 - Emanuelle:
